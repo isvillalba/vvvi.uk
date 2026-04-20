@@ -1,17 +1,14 @@
 name: Build Site
-
 on:
   push:
     branches:
-      - main  # Change this to your default branch if it's not 'main'
-
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout code
-      uses: actions/checkout@v4.2.0
+      uses: actions/checkout@v4
 
     - name: Set up Pandoc
       run: |
@@ -20,15 +17,15 @@ jobs:
 
     - name: Run script
       run: |
-        chmod +x ./portis.sh  # Replace with the name of your script
+        chmod +x ./portis.sh
         ./portis.sh
 
     - name: Commit and push changes
       run: |
-        git config --local user.email "yand@quien.es.eu.org"  # Replace with your email
-        git config --local user.name "Stand Your Gists"  # Replace with your name
+        git config --local user.email "yand@quien.es.eu.org"
+        git config --local user.name "Stand Your Gists"
         git add index.html
-        git commit -m "Update index.html"
-        git push
+        git commit -m "Update index.html" || echo "Nothing to commit, skipping push"
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
