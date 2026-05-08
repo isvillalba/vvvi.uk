@@ -1,33 +1,33 @@
 ==================================================================
-https://keybase.io/wils0n
+https://keybase.io/villalba
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://villalba.is.eu.org
-  * I am wils0n (https://keybase.io/wils0n) on keybase.
-  * I have a public key ASDUHsMMyECsWcJPyfR4VIsCpX1OWUvO0Rg7lqtV_nonIQo
+  * I am an admin of https://vvvi.uk
+  * I am villalba (https://keybase.io/villalba) on keybase.
+  * I have a public key ASDYnAeijqZKczP0r7wK-WtP6rPf_GUjsixwoysqMSiJvQo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "01207ac02f5b7700528056399791a898a5610ffebf0af42cfb864a590ad95c191a240a",
+      "eldest_kid": "0120d9f662dca1504100e8d05a1a00479099ce886947d2a8aad3c6479fa7a11eee440a",
       "host": "keybase.io",
-      "kid": "0120d41ec30cc840ac59c24fc9f478548b02a57d4e594bced1183b96ab55fe7a27210a",
-      "uid": "4e88598782bf4a4df6e0cab972493f19",
-      "username": "wils0n"
+      "kid": "0120d89c07a28ea64a7333f4afbc0af96b4feab3dffc6523b22c70a32b2a312889bd0a",
+      "uid": "c54cb314f809bc5ace7ff6c4a8c74c19",
+      "username": "villalba"
     },
     "merkle_root": {
-      "ctime": 1758034935,
-      "hash": "b5f108543f8f6ab1475a5dc8a46fa68f798fdfb6dcdd1102d4760bd1415819d61027ed41a43bcfab9cb77cfd64a1dc86be00f21fb1100623d4ba7baaafd927c8",
-      "hash_meta": "e4c30b146d9fa1316988c465cbc1b142738349d51cf7c48f9d0a07aed9f42987",
-      "seqno": 27093033
+      "ctime": 1778251673,
+      "hash": "3769989977c35112ebf2d57dc40dbd0ad3216479c1820fa7a66d1eea75bed5c1d8489b81ecc36fd5b47bc86b923aea23c691e6e6b97fb93d0e1d7c727b9d640c",
+      "hash_meta": "7a0a1b632fa0f96611627e5808c00d756fc98dc8081f9f519ec97d5cafdc1a13",
+      "seqno": 27569286
     },
     "service": {
-      "entropy": "aueHWC+VvlK1TDoHVctlqlHz",
-      "hostname": "villalba.is.eu.org",
+      "entropy": "EHP0vnw3x1DwCRq5LNoU75B1",
+      "hostname": "vvvi.uk",
       "protocol": "https:"
     },
     "type": "web_service_binding",
@@ -35,22 +35,22 @@ To do so, I am signing this object:
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "6.5.1"
+    "version": "6.6.2"
   },
-  "ctime": 1758034960,
+  "ctime": 1778251697,
   "expire_in": 504576000,
-  "prev": "1f7ea5d609a19d93bdd044c6ab32786f8fb5d1e97631b9f4c9576fe127e43480",
-  "seqno": 135,
+  "prev": "8a05771b72b519dab87a6369cb4146e85031b4c385954e42aec225723aa19f51",
+  "seqno": 196,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1B7DDMhArFnCT8n0eFSLAqV9TllLztEYO5arVf56JyEKp3BheWxvYWTES5cCzIfEIB9+pdYJoZ2TvdBExqsyeG+PtdHpdjG59MlXb+En5DSAxCCpMYZNjwtuCzEkDZKnLNPYxynMGKAgCZ/53ZngBfbawQIBwqNzaWfEQCXCzjsk62dJy9di8Jb6TdbbDxDkOBQODZxPiwFQKgXmf9fsJGZcdFd8kWlSJSP90MQ/w3xnQaiOUOA8LX6XOQqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAovEAJ7IdZXJLOoWna29U7xjbQGJw1SQPhASm39K03T6N0YWfNAgKndmVyc2lvbgE=
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2JwHoo6mSnMz9K+8CvlrT+qz3/xlI7IscKMrKjEoib0Kp3BheWxvYWTES5cCzMTEIIoFdxtytRnauHpjactBRuhQMbTDhZVOQq7CJXI6oZ9RxCB6Q6FAgGaks3LXhCFShuUNJZFQ79T59/K1HIMYC6+U1gIBwqNzaWfEQPLLWpz2ush1ZPffLWVzrAZREU/mRbAWYW28eFPP09be1hEL4eMFNtimWw3M4O2moQ3WNGWPOjTof0tSP9bGNQOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCzWZINylzNScIXlT31pfEz0lQ6BjLfuQA+pIsnE+jPm6N0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/wils0n
+View my publicly-auditable identity here: https://keybase.io/villalba
 
 ==================================================================
