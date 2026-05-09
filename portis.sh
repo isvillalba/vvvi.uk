@@ -32,7 +32,7 @@ echo "<!DOCTYPE html>
   <meta name=\"keywords\" content=\"jurisprudencia, buscador de jurisprudencia, buscador avanzado, portal\">
   <meta name=\"author\" content=\"Wilson Villalba\">
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
- <title>vvi.uk</title>
+ <title>vvvi.uk</title>
  <link rel=\"stylesheet\" href=\"./styles/lit.css\" />
  <link rel=\"stylesheet\" href=\"./styles/dettach.css\" />
 </head>
