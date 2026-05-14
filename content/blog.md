@@ -6,11 +6,9 @@ A partir de la fecha, 20 de abril de 2026, se pone a prueba un paywall en el bus
 
 ## Blog
 
+<button class="button buttom1"><a style="color: #3f50aa" href="https://post.vvvi.uk/">post.vvvi.uk</a></button>
 
-Los siguientes links son casi idénticos. ´blog' es el que finalmente dejaré.
-				
-<button class="button buttom1"><a style="color: #3f50aa" href="https://post.villalba.is.eu.org/">post.villalba.is.eu.org</a></button>
+## Padrón de Abogados
 
-<button class="button buttom1"><a style="color: #3f50aa" href="https://blog.villalba.is.eu.org/">blog.villalba.is.eu.org</a></button>
+<button class="button buttom1"><a style="color: #3f50aa" href="https://rps.vyllalba.uk/p26/">Padrón de Abogados 2026</a></button>
 
-<button class="button buttom1"><a style="color: #3f50aa" href="https://www.0007407.xyz/">0007407.xyz</a></button>
