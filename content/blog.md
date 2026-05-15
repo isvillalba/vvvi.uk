@@ -8,7 +8,7 @@ A partir de la fecha, 20 de abril de 2026, se pone a prueba un paywall en el bus
 
 <button class="button buttom1"><a style="color: #3f50aa" href="https://post.vvvi.uk/">post.vvvi.uk</a></button>
 
-## Padrón de Abogados
+## Padrón de Abogados 2026
 
 <button class="button buttom1"><a style="color: #3f50aa" href="https://rps.vyllalba.uk/p26/">Padrón de Abogados 2026</a></button>
 
