@@ -264,4 +264,22 @@ label {
         font-size: 0.95em;
         padding: 0.5em 1em;
     }
+
+    /* ── Orden en mobile ── */
+    .logo            { order: 1; }
+    .recursos        { order: 2; }
+    .submenu         { order: 3; }
+    .ruc             { order: 4; }
+    .blog            { order: 5; }
+    .otros           { order: 6; }
+    .gaceta          { order: 7; }
+    .revista         { order: 8; }
+    .cpc             { order: 9; }
+    .amigos          { order: 10; }
+    .extras          { order: 11; }
+    .paquetes        { order: 12; }
+    .condiciones     { order: 13; }
+    .condicionesext  { order: 14; }
+    .agradecimientos { order: 15; }
+    .eth             { order: 16; }
 }
