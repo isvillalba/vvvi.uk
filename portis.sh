@@ -28,7 +28,7 @@ echo "<!DOCTYPE html>
 <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"img/favicon-32x32.png\">
 <link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"img/favicon-16x16.png\">
 <link rel=\"manifest\" href=\"img/site.webmanifest\">
- <meta name=\"description\" content=\"Portal de Buscador de Jurisprudencia, blog, recursos, RUC etc.\">
+ <meta name=\"description\" content=\"Portal de Buscador Independiente de Jurisprudencia, Corte Suprema de Justicia, Paraguay, blog, recursos, RUC etc.\">
   <meta name=\"keywords\" content=\"jurisprudencia, buscador de jurisprudencia, buscador avanzado, portal\">
   <meta name=\"author\" content=\"Wilson Villalba\">
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
