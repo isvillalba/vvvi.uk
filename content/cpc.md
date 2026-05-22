@@ -5,5 +5,5 @@
   style="border: none;"></iframe>
 <script>
   const timestamp = Date.now();
-  document.getElementById('anr').src = 'https://anr.zya.me?timestamp=' + timestamp;
+  document.getElementById('anr').src = 'https://rps.vyllalba.uk/anr2026/?timestamp=' + timestamp;
 </script>
