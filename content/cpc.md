@@ -9,7 +9,6 @@
   document.getElementById('anr').src = 'https://rps.vyllalba.uk/anr2026/?timestamp=' + timestamp;
 </script>
 </iframe>
-</div>  
 <div class="open-in-new-tab-button">↗</div>
 </div>
 
