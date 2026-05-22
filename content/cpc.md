@@ -1,3 +1,4 @@
+<div class="iframe-wrapper">
 <iframe id="anr"
   title="anr"
   width="100%"
@@ -6,4 +7,18 @@
 <script>
   const timestamp = Date.now();
   document.getElementById('anr').src = 'https://rps.vyllalba.uk/anr2026/?timestamp=' + timestamp;
+</script>
+</iframe>
+</div>  
+<div class="open-in-new-tab-button">↗</div>
+</div>
+
+<script>
+  document.querySelectorAll('.open-in-new-tab-button').forEach(button => {
+  button.addEventListener('click', function(e) {
+    e.stopPropagation(); // Evita que el clic se propague al iframe
+    const iframe = this.parentElement.querySelector('iframe');
+    window.open(iframe.src, '_blank');
+  });
+});
 </script>
